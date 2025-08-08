@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "stdint.h"
-#include "CMSS_CACHE_REG.h"
+#include "CXL_REG.h"
 #include "xil_printf.h"
 #include "sleep.h"
 

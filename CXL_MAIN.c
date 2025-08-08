@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "platform.h"
 #include "xil_printf.h"
-#include "CMSS_CACHE_REG.h"
+#include "CXL_REG.h"
 #include "stdint.h"
 #include "sleep.h"
 
